@@ -1,0 +1,35 @@
+
+body {
+    background-color: hsl(217, 51%, 84%);
+    }
+p {
+    font-size: 15px;
+    font-weight:400;
+    
+}
+
+h3 {
+    font-weight:700;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.recuadro {
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    padding: 0%;
+    justify-content: center;
+    background-color: hsl(0, 0%, 100%); 
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-family:outfit;
+    margin: auto;
+            }
+.imagen{
+    width: 300px;
+    border-radius: 20px;
+}
+
